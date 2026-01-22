@@ -1,0 +1,1 @@
+print("Bugun qor yog'di...")
